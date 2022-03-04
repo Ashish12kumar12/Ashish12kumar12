@@ -1,3 +1,4 @@
+<h1 align="center"><b><i>NAMASTE!!</i></b></h1>
 <h1 align="center">Hi 👋, I'm Ashish</h1>
 <h3 align="center">A boy trying to figure-out stuff!!! Exploring and Crack</h3>
 
